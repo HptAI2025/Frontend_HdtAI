@@ -1,0 +1,41 @@
+{
+  "navigation": {
+    "home": "Home",
+    "enterprise": "Enterprise",
+    "pricing": "Pricing",
+    "customers": "Customers",
+    "about": "About us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "contact": "Contact",
+    "docs": "Docs",
+    "login": "Login",
+    "getStarted": "Get started"
+  },
+  "hero": {
+    "title": "HDT AI, Pioneering Artificial Intelligence Solutions",
+    "subtitle": "Accelerate performance – save costs – breakthrough innovation with your AI team",
+    "description": "We help individuals and businesses apply AI in practice, thereby promoting sustainable development in the digital age.",
+    "getStarted": "Get started",
+    "watchDemo": "Watch demo"
+  },
+  "footer": {
+    "company": "Company",
+    "product": "Product",
+    "resources": "Resources",
+    "legal": "Legal",
+    "copyright": "© 2024 HDT AI. All rights reserved."
+  },
+  "enterprise": {
+    "title": "Enterprise Solutions",
+    "subtitle": "Scale your engineering team with HDT AI"
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Choose a plan that's right for you"
+  },
+  "customers": {
+    "title": "Customer Success Stories",
+    "subtitle": "See how industry leaders build with HDT AI"
+  }
+}

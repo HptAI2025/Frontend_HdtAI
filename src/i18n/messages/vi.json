@@ -1,0 +1,41 @@
+{
+  "navigation": {
+    "home": "Trang chủ",
+    "enterprise": "Doanh nghiệp",
+    "pricing": "Bảng giá",
+    "customers": "Khách hàng",
+    "about": "Về chúng tôi",
+    "careers": "Tuyển dụng",
+    "blog": "Blog",
+    "contact": "Liên hệ",
+    "docs": "Tài liệu",
+    "login": "Đăng nhập",
+    "getStarted": "Bắt đầu"
+  },
+  "hero": {
+    "title": "HDT AI, Giải pháp Trí tuệ Nhân tạo Tiên phong",
+    "subtitle": "Tăng tốc hiệu suất – tiết kiệm chi phí – đột phá sáng tạo với đội ngũ AI của bạn",
+    "description": "Chúng tôi giúp cá nhân và doanh nghiệp ứng dụng AI vào thực tiễn, từ đó thúc đẩy sự phát triển bền vững trong kỷ nguyên số.",
+    "getStarted": "Bắt đầu ngay",
+    "watchDemo": "Xem demo"
+  },
+  "footer": {
+    "company": "Công ty",
+    "product": "Sản phẩm",
+    "resources": "Tài nguyên",
+    "legal": "Pháp lý",
+    "copyright": "© 2024 HDT AI. Tất cả quyền được bảo lưu."
+  },
+  "enterprise": {
+    "title": "Giải pháp Doanh nghiệp",
+    "subtitle": "Mở rộng đội ngũ kỹ thuật với HDT AI"
+  },
+  "pricing": {
+    "title": "Bảng Giá",
+    "subtitle": "Chọn gói phù hợp với bạn"
+  },
+  "customers": {
+    "title": "Câu Chuyện Thành Công",
+    "subtitle": "Xem các doanh nghiệp hàng đầu xây dựng với HDT AI"
+  }
+}
