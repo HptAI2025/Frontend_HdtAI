@@ -37,5 +37,442 @@
   "customers": {
     "title": "Câu Chuyện Thành Công",
     "subtitle": "Xem các doanh nghiệp hàng đầu xây dựng với HDT AI"
+  },
+  "AboutUs": {
+    "meta": {
+      "title": "Về Chúng Tôi - HDT AI",
+      "description": "Tìm hiểu về HDT AI - Công ty công nghệ tiên phong trong việc phát triển giải pháp trí tuệ nhân tạo ứng dụng vào thực tiễn"
+    },
+    "hero": {
+      "title": "Về HDT AI",
+      "subtitle": "Công ty Cổ phần Công nghệ HDT AI - Tiên phong trong việc đưa AI ứng dụng sâu vào công việc và đời sống"
+    },
+    "introduction": {
+      "title": "Giới Thiệu Công Ty",
+      "description": "Công ty Cổ phần Công nghệ HDT AI là một startup công nghệ định hướng phát triển các giải pháp trí tuệ nhân tạo (AI) ứng dụng vào thực tiễn. Chúng tôi giúp cá nhân và doanh nghiệp tăng tốc hiệu suất – tiết kiệm chi phí – đột phá sáng tạo, từ đó thúc đẩy sự phát triển bền vững trong kỷ nguyên số.",
+      "tagline": "Tăng tốc - Tiết kiệm - Đột phá",
+      "innovation": "Đổi mới sáng tạo"
+    },
+    "vision": {
+      "sectionTitle": "Tầm Nhìn - Sứ Mệnh - Giá Trị Cốt Lõi",
+      "sectionSubtitle": "Những giá trị định hướng hoạt động của HDT AI",
+      "title": "Tầm Nhìn",
+      "description": "Trở thành đơn vị tiên phong trong việc đưa AI ứng dụng sâu vào công việc và đời sống tại Việt Nam và khu vực."
+    },
+    "mission": {
+      "title": "Sứ Mệnh",
+      "description": "Biến trí tuệ nhân tạo thành công cụ thực tiễn, dễ dùng, dễ áp dụng cho mọi người – từ cá nhân nhỏ lẻ đến doanh nghiệp lớn."
+    },
+    "values": {
+      "title": "Giá Trị Cốt Lõi",
+      "description": "Đổi mới – Hiệu quả – Hợp tác – Con người là trung tâm."
+    },
+    "activities": {
+      "title": "Lĩnh Vực Hoạt Động Chính",
+      "subtitle": "Các dịch vụ và giải pháp mà HDT AI cung cấp",
+      "consulting": {
+        "title": "Tư vấn & Triển khai",
+        "description": "Chatbot bán hàng, trợ lý ảo, tự động hóa quy trình, phân tích dữ liệu"
+      },
+      "development": {
+        "title": "Phát triển Sản phẩm AI",
+        "description": "Phần mềm thông minh, công cụ tạo nội dung, xử lý hình ảnh – giọng nói"
+      },
+      "training": {
+        "title": "Đào tạo AI Ứng dụng",
+        "description": "Giúp cá nhân và doanh nghiệp làm chủ công cụ AI nhanh chóng, hiệu quả"
+      },
+      "research": {
+        "title": "Nghiên cứu & Phát triển",
+        "description": "Mã nguồn mở AI, góp phần xây dựng tương lai công nghệ bền vững"
+      }
+    },
+    "philosophy": {
+      "title": "Con Người Là Trung Tâm",
+      "description": "Chúng tôi tin rằng AI chỉ có giá trị khi phục vụ con người.",
+      "quote": "AI chỉ có giá trị khi phục vụ con người",
+      "explanation": "Mọi sản phẩm, giải pháp và dịch vụ tại HDT AI đều lấy trải nghiệm người dùng – hiệu quả ứng dụng – sự đồng hành lâu dài làm kim chỉ nam."
+    },
+    "commitments": {
+      "title": "Cam Kết Của HDT AI",
+      "subtitle": "Những cam kết mà chúng tôi luôn theo đuổi",
+      "innovation": {
+        "title": "Đổi mới sáng tạo",
+        "description": "Luôn đổi mới sáng tạo để dẫn đầu trong lĩnh vực AI ứng dụng"
+      },
+      "partnership": {
+        "title": "Đồng hành cùng khách hàng",
+        "description": "Luôn đồng hành cùng khách hàng trong hành trình ứng dụng AI hiệu quả"
+      },
+      "sustainability": {
+        "title": "Phát triển bền vững",
+        "description": "Luôn hướng tới phát triển bền vững, có trách nhiệm với cộng đồng và xã hội"
+      }
+    }
+  },
+  "Careers": {
+    "meta": {
+      "title": "Tuyển Dụng - HDT AI",
+      "description": "Tham gia đội ngũ HDT AI - Nơi con người là trung tâm, đổi mới sáng tạo và phát triển bền vững"
+    },
+    "hero": {
+      "title": "Tham Gia HDT AI",
+      "subtitle": "Nơi con người là trung tâm, cùng nhau xây dựng tương lai AI ứng dụng",
+      "viewJobs": "Xem vị trí tuyển dụng",
+      "learnMore": "Tìm hiểu thêm"
+    },
+    "culture": {
+      "title": "Văn Hóa Công Ty",
+      "subtitle": "Những giá trị cốt lõi định hướng cách chúng tôi làm việc",
+      "innovation": {
+        "title": "Đổi Mới Sáng Tạo",
+        "description": "Luôn tìm kiếm những ý tưởng mới và cách tiếp cận sáng tạo"
+      },
+      "collaboration": {
+        "title": "Hợp Tác",
+        "description": "Làm việc nhóm hiệu quả, chia sẻ kiến thức và hỗ trợ lẫn nhau"
+      },
+      "learning": {
+        "title": "Học Hỏi Liên Tục",
+        "description": "Không ngừng học hỏi và phát triển kỹ năng chuyên môn"
+      },
+      "impact": {
+        "title": "Tạo Tác Động",
+        "description": "Mỗi công việc đều hướng tới tạo ra giá trị thực tiễn cho xã hội"
+      }
+    },
+    "benefits": {
+      "title": "Quyền Lợi Nhân Viên",
+      "subtitle": "Chúng tôi đầu tư vào sự phát triển và hạnh phúc của từng thành viên",
+      "salary": {
+        "title": "Lương Thưởng Cạnh Tranh",
+        "description": "Mức lương hấp dẫn cùng các khoản thưởng hiệu suất"
+      },
+      "health": {
+        "title": "Bảo Hiểm Sức Khỏe",
+        "description": "Bảo hiểm y tế toàn diện cho nhân viên và gia đình"
+      },
+      "learning": {
+        "title": "Đào Tạo & Phát Triển",
+        "description": "Ngân sách học tập và cơ hội tham gia các khóa đào tạo chuyên sâu"
+      },
+      "flexible": {
+        "title": "Thời Gian Linh Hoạt",
+        "description": "Làm việc linh hoạt, cân bằng giữa công việc và cuộc sống"
+      },
+      "remote": {
+        "title": "Làm Việc Từ Xa",
+        "description": "Hỗ trợ làm việc từ xa và hybrid working"
+      },
+      "team": {
+        "title": "Đội Ngũ Tuyệt Vời",
+        "description": "Làm việc cùng những người tài năng và nhiệt huyết"
+      }
+    },
+    "openings": {
+      "title": "Vị Trí Đang Tuyển",
+      "subtitle": "Tìm kiếm cơ hội phù hợp với bạn",
+      "apply": "Ứng tuyển",
+      "noMatch": "Không tìm thấy vị trí phù hợp?",
+      "sendResume": "Gửi CV của bạn"
+    },
+    "jobs": {
+      "aiEngineer": {
+        "title": "Kỹ Sư AI",
+        "department": "Kỹ thuật",
+        "location": "Hà Nội/TP.HCM",
+        "type": "Toàn thời gian",
+        "description": "Phát triển và triển khai các mô hình AI, machine learning cho các sản phẩm thực tế"
+      },
+      "frontendDev": {
+        "title": "Frontend Developer",
+        "department": "Kỹ thuật",
+        "location": "Hà Nội/Remote",
+        "type": "Toàn thời gian",
+        "description": "Xây dựng giao diện người dùng hiện đại với React, Next.js và các công nghệ frontend tiên tiến"
+      },
+      "productManager": {
+        "title": "Product Manager",
+        "department": "Sản phẩm",
+        "location": "Hà Nội",
+        "type": "Toàn thời gian",
+        "description": "Quản lý và phát triển sản phẩm AI, làm cầu nối giữa kỹ thuật và kinh doanh"
+      }
+    },
+    "cta": {
+      "title": "Sẵn Sàng Tham Gia?",
+      "subtitle": "Hãy cùng chúng tôi xây dựng tương lai của AI ứng dụng",
+      "viewJobs": "Xem tất cả vị trí",
+      "contact": "Liên hệ HR"
+    }
+  },
+  "Blog": {
+    "meta": {
+      "title": "Blog - HDT AI",
+      "description": "Khám phá những xu hướng mới nhất về AI, machine learning và công nghệ từ đội ngũ chuyên gia HDT AI"
+    },
+    "hero": {
+      "title": "Blog HDT AI",
+      "subtitle": "Khám phá những xu hướng mới nhất về AI, machine learning và công nghệ"
+    },
+    "search": {
+      "placeholder": "Tìm kiếm bài viết..."
+    },
+    "readMore": "Đọc thêm",
+    "loadMore": "Tải thêm bài viết",
+    "noResults": {
+      "title": "Không tìm thấy bài viết",
+      "description": "Thử thay đổi từ khóa tìm kiếm hoặc danh mục"
+    },
+    "newsletter": {
+      "title": "Đăng Ký Nhận Tin",
+      "subtitle": "Nhận những bài viết mới nhất về AI và công nghệ",
+      "placeholder": "Nhập email của bạn",
+      "subscribe": "Đăng ký"
+    }
+  },
+  "BlogPost": {
+    "backToBlog": "Quay lại Blog",
+    "tableOfContents": "Mục lục",
+    "shareArticle": "Chia sẻ bài viết",
+    "relatedArticles": "Bài viết liên quan",
+    "readMore": "Đọc thêm"
+  },
+  "Contact": {
+    "meta": {
+      "title": "Liên Hệ - HDT AI",
+      "description": "Liên hệ với HDT AI để được tư vấn về các giải pháp AI ứng dụng cho doanh nghiệp của bạn"
+    },
+    "hero": {
+      "title": "Liên Hệ Với Chúng Tôi",
+      "subtitle": "Sẵn sàng hỗ trợ bạn trong hành trình ứng dụng AI hiệu quả"
+    },
+    "form": {
+      "title": "Gửi Tin Nhắn",
+      "name": "Họ và tên",
+      "namePlaceholder": "Nhập họ và tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "Nhập địa chỉ email",
+      "company": "Công ty",
+      "companyPlaceholder": "Tên công ty (tùy chọn)",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "Số điện thoại liên hệ",
+      "subject": "Chủ đề",
+      "selectSubject": "Chọn chủ đề",
+      "subjects": {
+        "general": "Thông tin chung",
+        "sales": "Tư vấn bán hàng",
+        "support": "Hỗ trợ kỹ thuật",
+        "partnership": "Hợp tác đối tác",
+        "career": "Cơ hội nghề nghiệp"
+      },
+      "message": "Tin nhắn",
+      "messagePlaceholder": "Mô tả chi tiết yêu cầu của bạn...",
+      "send": "Gửi tin nhắn",
+      "sending": "Đang gửi...",
+      "successMessage": "Cảm ơn bạn! Chúng tôi sẽ liên hệ lại trong thời gian sớm nhất.",
+      "errorMessage": "Có lỗi xảy ra. Vui lòng thử lại sau."
+    },
+    "info": {
+      "title": "Thông Tin Liên Hệ",
+      "description": "Chúng tôi luôn sẵn sàng lắng nghe và hỗ trợ bạn. Hãy liên hệ với chúng tôi qua các kênh dưới đây.",
+      "address": {
+        "title": "Địa chỉ",
+        "value": "Tầng 10, Tòa nhà ABC, 123 Đường XYZ, Quận 1, TP.HCM"
+      },
+      "email": {
+        "title": "Email",
+        "value": "contact@hdtai.com"
+      },
+      "phone": {
+        "title": "Điện thoại",
+        "value": "+84 28 1234 5678"
+      },
+      "hours": {
+        "title": "Giờ làm việc",
+        "value": "Thứ 2 - Thứ 6: 8:00 - 17:30"
+      },
+      "social": {
+        "title": "Mạng xã hội"
+      }
+    },
+    "map": {
+      "title": "Vị Trí Của Chúng Tôi",
+      "subtitle": "Ghé thăm văn phòng HDT AI để trải nghiệm trực tiếp các giải pháp AI",
+      "placeholder": "Bản đồ sẽ được hiển thị ở đây"
+    }
+  },
+  "Docs": {
+    "meta": {
+      "title": "Tài Liệu - HDT AI",
+      "description": "Tài liệu hướng dẫn chi tiết về các API, SDK và giải pháp AI của HDT AI"
+    },
+    "hero": {
+      "title": "Tài Liệu HDT AI",
+      "subtitle": "Hướng dẫn chi tiết để bắt đầu với các giải pháp AI của chúng tôi",
+      "searchPlaceholder": "Tìm kiếm tài liệu..."
+    },
+    "popular": {
+      "title": "Tài Liệu Phổ Biến",
+      "subtitle": "Những hướng dẫn được truy cập nhiều nhất",
+      "quickStart": "Bắt đầu nhanh",
+      "chatbotGuide": "Hướng dẫn xây dựng Chatbot",
+      "apiAuth": "Xác thực API",
+      "deployment": "Triển khai ứng dụng"
+    },
+    "categories": {
+      "title": "Danh Mục Tài Liệu",
+      "subtitle": "Khám phá tài liệu theo từng chủ đề",
+      "gettingStarted": {
+        "title": "Bắt Đầu",
+        "description": "Hướng dẫn cơ bản để bắt đầu với HDT AI",
+        "docs": {
+          "quickStart": "Bắt đầu nhanh",
+          "installation": "Cài đặt",
+          "firstProject": "Dự án đầu tiên"
+        }
+      },
+      "apiReference": {
+        "title": "Tham Khảo API",
+        "description": "Tài liệu chi tiết về các API của HDT AI",
+        "docs": {
+          "authentication": "Xác thực",
+          "endpoints": "Các endpoint",
+          "examples": "Ví dụ"
+        }
+      },
+      "aiSolutions": {
+        "title": "Giải Pháp AI",
+        "description": "Hướng dẫn sử dụng các giải pháp AI cụ thể",
+        "docs": {
+          "chatbot": "Chatbot AI",
+          "automation": "Tự động hóa",
+          "analytics": "Phân tích dữ liệu"
+        }
+      },
+      "tutorials": {
+        "title": "Hướng Dẫn",
+        "description": "Các bài hướng dẫn từng bước chi tiết",
+        "docs": {
+          "buildChatbot": "Xây dựng Chatbot",
+          "dataAnalysis": "Phân tích dữ liệu",
+          "deployment": "Triển khai"
+        }
+      },
+      "integrations": {
+        "title": "Tích Hợp",
+        "description": "Hướng dẫn tích hợp với các hệ thống khác",
+        "docs": {
+          "webhooks": "Webhooks",
+          "thirdParty": "Bên thứ ba",
+          "sdks": "SDKs"
+        }
+      },
+      "support": {
+        "title": "Hỗ Trợ",
+        "description": "Câu hỏi thường gặp và hỗ trợ kỹ thuật",
+        "docs": {
+          "faq": "Câu hỏi thường gặp",
+          "troubleshooting": "Khắc phục sự cố",
+          "contact": "Liên hệ hỗ trợ"
+        }
+      }
+    },
+    "quickLinks": {
+      "getStarted": {
+        "title": "Bắt Đầu Ngay",
+        "description": "Thiết lập và chạy dự án đầu tiên trong 5 phút",
+        "link": "Bắt đầu"
+      },
+      "community": {
+        "title": "Cộng Đồng",
+        "description": "Tham gia cộng đồng developer HDT AI",
+        "link": "Tham gia"
+      },
+      "support": {
+        "title": "Hỗ Trợ",
+        "description": "Nhận hỗ trợ từ đội ngũ chuyên gia",
+        "link": "Liên hệ"
+      }
+    },
+    "cta": {
+      "title": "Sẵn Sàng Bắt Đầu?",
+      "subtitle": "Tạo tài khoản miễn phí và bắt đầu xây dựng với HDT AI ngay hôm nay",
+      "getStarted": "Bắt đầu miễn phí",
+      "contact": "Liên hệ tư vấn"
+    }
+  },
+  "Login": {
+    "title": "Đăng Nhập HDT AI",
+    "subtitle": "Truy cập vào nền tảng AI của bạn",
+    "promo": {
+      "title": "Khuyến mãi đặc biệt +75$ credit cho tài khoản mới",
+      "description": "Nhận ngay 75$ credit miễn phí khi đăng ký tài khoản HDT AI"
+    },
+    "githubLogin": "Đăng nhập với GitHub",
+    "googleLogin": "Đăng nhập với Google",
+    "orContinueWith": "hoặc tiếp tục với",
+    "email": "Email",
+    "emailPlaceholder": "Nhập địa chỉ email của bạn",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "Nhập mật khẩu",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "forgotPassword": "Quên mật khẩu?",
+    "signIn": "Đăng nhập",
+    "signingIn": "Đang đăng nhập...",
+    "noAccount": "Chưa có tài khoản?",
+    "signUp": "Đăng ký ngay",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản sử dụng",
+    "support": "Hỗ trợ"
+  },
+  "GetStarted": {
+    "nav": {
+      "enterprise": "Doanh nghiệp",
+      "pricing": "Bảng giá",
+      "customers": "Khách hàng",
+      "blog": "Blog",
+      "login": "Đăng nhập"
+    },
+    "promo": {
+      "title": "🎉 Khuyến mãi đặc biệt HDT AI x Windsurf với +75$ credit cho tài khoản mới"
+    },
+    "hero": {
+      "title": "HDT AI, Trợ lý AI cho Kỹ sư",
+      "subtitle": "Giải quyết backlog với đội ngũ AI kỹ thuật cá nhân của bạn."
+    },
+    "githubSignup": "Bắt đầu với GitHub",
+    "googleSignup": "Bắt đầu với Google",
+    "alreadyHaveAccount": "Đã có tài khoản?",
+    "signIn": "Đăng nhập",
+    "process": {
+      "title": "Quy Trình Làm Việc"
+    },
+    "steps": {
+      "ticket": {
+        "title": "Ticket",
+        "description": "Tích hợp với Slack và Linear"
+      },
+      "plan": {
+        "title": "Kế hoạch",
+        "description": "HDT AI có thể yêu cầu thêm thông tin"
+      },
+      "test": {
+        "title": "Kiểm thử",
+        "description": "HDT AI đảm bảo các thay đổi hoạt động"
+      },
+      "pr": {
+        "title": "PR",
+        "description": "Yêu cầu thay đổi trực tiếp trên PR"
+      }
+    },
+    "integrations": {
+      "title": "Tích hợp với các công cụ phổ biến"
+    },
+    "footer": {
+      "privacy": "Chính sách bảo mật",
+      "terms": "Điều khoản sử dụng",
+      "support": "Hỗ trợ"
+    }
   }
 }

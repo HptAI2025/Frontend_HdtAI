@@ -37,5 +37,442 @@
   "customers": {
     "title": "Customer Success Stories",
     "subtitle": "See how industry leaders build with HDT AI"
+  },
+  "AboutUs": {
+    "meta": {
+      "title": "About Us - HDT AI",
+      "description": "Learn about HDT AI - A pioneering technology company in developing practical artificial intelligence solutions"
+    },
+    "hero": {
+      "title": "About HDT AI",
+      "subtitle": "HDT AI Technology Corporation - Pioneering in bringing AI applications deep into work and life"
+    },
+    "introduction": {
+      "title": "Company Introduction",
+      "description": "HDT AI Technology Corporation is a technology startup focused on developing practical artificial intelligence (AI) solutions. We help individuals and businesses accelerate performance – save costs – breakthrough innovation, thereby promoting sustainable development in the digital age.",
+      "tagline": "Accelerate - Save - Breakthrough",
+      "innovation": "Innovation"
+    },
+    "vision": {
+      "sectionTitle": "Vision - Mission - Core Values",
+      "sectionSubtitle": "The values that guide HDT AI's operations",
+      "title": "Vision",
+      "description": "To become a pioneer in bringing AI applications deep into work and life in Vietnam and the region."
+    },
+    "mission": {
+      "title": "Mission",
+      "description": "Transform artificial intelligence into practical, easy-to-use, easy-to-apply tools for everyone – from small individuals to large enterprises."
+    },
+    "values": {
+      "title": "Core Values",
+      "description": "Innovation – Efficiency – Collaboration – Human-centered."
+    },
+    "activities": {
+      "title": "Main Business Areas",
+      "subtitle": "Services and solutions provided by HDT AI",
+      "consulting": {
+        "title": "Consulting & Implementation",
+        "description": "Sales chatbots, virtual assistants, process automation, data analysis"
+      },
+      "development": {
+        "title": "AI Product Development",
+        "description": "Smart software, content creation tools, image & voice processing"
+      },
+      "training": {
+        "title": "Applied AI Training",
+        "description": "Help individuals and businesses master AI tools quickly and effectively"
+      },
+      "research": {
+        "title": "Research & Development",
+        "description": "Open source AI, contributing to building a sustainable technology future"
+      }
+    },
+    "philosophy": {
+      "title": "Human-Centered",
+      "description": "We believe that AI only has value when it serves people.",
+      "quote": "AI only has value when it serves people",
+      "explanation": "All products, solutions and services at HDT AI take user experience – application effectiveness – long-term partnership as the guiding principle."
+    },
+    "commitments": {
+      "title": "HDT AI's Commitments",
+      "subtitle": "The commitments we always pursue",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Always innovate to lead in the field of applied AI"
+      },
+      "partnership": {
+        "title": "Customer Partnership",
+        "description": "Always accompany customers in their journey to effectively apply AI"
+      },
+      "sustainability": {
+        "title": "Sustainable Development",
+        "description": "Always aim for sustainable development, responsible to the community and society"
+      }
+    }
+  },
+  "Careers": {
+    "meta": {
+      "title": "Careers - HDT AI",
+      "description": "Join HDT AI team - Where people are at the center, innovation and sustainable development"
+    },
+    "hero": {
+      "title": "Join HDT AI",
+      "subtitle": "Where people are at the center, building the future of applied AI together",
+      "viewJobs": "View job openings",
+      "learnMore": "Learn more"
+    },
+    "culture": {
+      "title": "Company Culture",
+      "subtitle": "Core values that guide how we work",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Always seeking new ideas and creative approaches"
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Effective teamwork, knowledge sharing and mutual support"
+      },
+      "learning": {
+        "title": "Continuous Learning",
+        "description": "Constantly learning and developing professional skills"
+      },
+      "impact": {
+        "title": "Create Impact",
+        "description": "Every job aims to create practical value for society"
+      }
+    },
+    "benefits": {
+      "title": "Employee Benefits",
+      "subtitle": "We invest in the development and happiness of each member",
+      "salary": {
+        "title": "Competitive Salary",
+        "description": "Attractive salary with performance bonuses"
+      },
+      "health": {
+        "title": "Health Insurance",
+        "description": "Comprehensive health insurance for employees and families"
+      },
+      "learning": {
+        "title": "Training & Development",
+        "description": "Learning budget and opportunities to participate in specialized training courses"
+      },
+      "flexible": {
+        "title": "Flexible Hours",
+        "description": "Flexible work, balance between work and life"
+      },
+      "remote": {
+        "title": "Remote Work",
+        "description": "Support remote work and hybrid working"
+      },
+      "team": {
+        "title": "Great Team",
+        "description": "Work with talented and passionate people"
+      }
+    },
+    "openings": {
+      "title": "Current Openings",
+      "subtitle": "Find opportunities that suit you",
+      "apply": "Apply",
+      "noMatch": "Can't find a suitable position?",
+      "sendResume": "Send your resume"
+    },
+    "jobs": {
+      "aiEngineer": {
+        "title": "AI Engineer",
+        "department": "Engineering",
+        "location": "Hanoi/Ho Chi Minh City",
+        "type": "Full-time",
+        "description": "Develop and deploy AI models, machine learning for real products"
+      },
+      "frontendDev": {
+        "title": "Frontend Developer",
+        "department": "Engineering",
+        "location": "Hanoi/Remote",
+        "type": "Full-time",
+        "description": "Build modern user interfaces with React, Next.js and advanced frontend technologies"
+      },
+      "productManager": {
+        "title": "Product Manager",
+        "department": "Product",
+        "location": "Hanoi",
+        "type": "Full-time",
+        "description": "Manage and develop AI products, bridge between engineering and business"
+      }
+    },
+    "cta": {
+      "title": "Ready to Join?",
+      "subtitle": "Let's build the future of applied AI together",
+      "viewJobs": "View all positions",
+      "contact": "Contact HR"
+    }
+  },
+  "Blog": {
+    "meta": {
+      "title": "Blog - HDT AI",
+      "description": "Explore the latest trends in AI, machine learning and technology from HDT AI expert team"
+    },
+    "hero": {
+      "title": "HDT AI Blog",
+      "subtitle": "Explore the latest trends in AI, machine learning and technology"
+    },
+    "search": {
+      "placeholder": "Search articles..."
+    },
+    "readMore": "Read more",
+    "loadMore": "Load more articles",
+    "noResults": {
+      "title": "No articles found",
+      "description": "Try changing search keywords or category"
+    },
+    "newsletter": {
+      "title": "Subscribe to Newsletter",
+      "subtitle": "Get the latest articles about AI and technology",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    }
+  },
+  "BlogPost": {
+    "backToBlog": "Back to Blog",
+    "tableOfContents": "Table of Contents",
+    "shareArticle": "Share Article",
+    "relatedArticles": "Related Articles",
+    "readMore": "Read more"
+  },
+  "Contact": {
+    "meta": {
+      "title": "Contact Us - HDT AI",
+      "description": "Contact HDT AI for consultation on applied AI solutions for your business"
+    },
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Ready to support you in your journey to effectively apply AI"
+    },
+    "form": {
+      "title": "Send Message",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email address",
+      "company": "Company",
+      "companyPlaceholder": "Company name (optional)",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Contact phone number",
+      "subject": "Subject",
+      "selectSubject": "Select subject",
+      "subjects": {
+        "general": "General Information",
+        "sales": "Sales Consultation",
+        "support": "Technical Support",
+        "partnership": "Partnership",
+        "career": "Career Opportunities"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Describe your requirements in detail...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "successMessage": "Thank you! We will contact you as soon as possible.",
+      "errorMessage": "An error occurred. Please try again later."
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "We are always ready to listen and support you. Contact us through the channels below.",
+      "address": {
+        "title": "Address",
+        "value": "10th Floor, ABC Building, 123 XYZ Street, District 1, Ho Chi Minh City"
+      },
+      "email": {
+        "title": "Email",
+        "value": "contact@hdtai.com"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+84 28 1234 5678"
+      },
+      "hours": {
+        "title": "Working Hours",
+        "value": "Monday - Friday: 8:00 AM - 5:30 PM"
+      },
+      "social": {
+        "title": "Social Media"
+      }
+    },
+    "map": {
+      "title": "Our Location",
+      "subtitle": "Visit HDT AI office to experience AI solutions firsthand",
+      "placeholder": "Map will be displayed here"
+    }
+  },
+  "Docs": {
+    "meta": {
+      "title": "Documentation - HDT AI",
+      "description": "Detailed documentation for HDT AI APIs, SDKs and AI solutions"
+    },
+    "hero": {
+      "title": "HDT AI Documentation",
+      "subtitle": "Comprehensive guides to get started with our AI solutions",
+      "searchPlaceholder": "Search documentation..."
+    },
+    "popular": {
+      "title": "Popular Documentation",
+      "subtitle": "Most accessed guides and tutorials",
+      "quickStart": "Quick Start",
+      "chatbotGuide": "Chatbot Building Guide",
+      "apiAuth": "API Authentication",
+      "deployment": "Application Deployment"
+    },
+    "categories": {
+      "title": "Documentation Categories",
+      "subtitle": "Explore documentation by topic",
+      "gettingStarted": {
+        "title": "Getting Started",
+        "description": "Basic guides to get started with HDT AI",
+        "docs": {
+          "quickStart": "Quick Start",
+          "installation": "Installation",
+          "firstProject": "First Project"
+        }
+      },
+      "apiReference": {
+        "title": "API Reference",
+        "description": "Detailed documentation for HDT AI APIs",
+        "docs": {
+          "authentication": "Authentication",
+          "endpoints": "Endpoints",
+          "examples": "Examples"
+        }
+      },
+      "aiSolutions": {
+        "title": "AI Solutions",
+        "description": "Guides for using specific AI solutions",
+        "docs": {
+          "chatbot": "AI Chatbot",
+          "automation": "Automation",
+          "analytics": "Data Analytics"
+        }
+      },
+      "tutorials": {
+        "title": "Tutorials",
+        "description": "Step-by-step detailed tutorials",
+        "docs": {
+          "buildChatbot": "Build Chatbot",
+          "dataAnalysis": "Data Analysis",
+          "deployment": "Deployment"
+        }
+      },
+      "integrations": {
+        "title": "Integrations",
+        "description": "Guides for integrating with other systems",
+        "docs": {
+          "webhooks": "Webhooks",
+          "thirdParty": "Third Party",
+          "sdks": "SDKs"
+        }
+      },
+      "support": {
+        "title": "Support",
+        "description": "FAQ and technical support",
+        "docs": {
+          "faq": "FAQ",
+          "troubleshooting": "Troubleshooting",
+          "contact": "Contact Support"
+        }
+      }
+    },
+    "quickLinks": {
+      "getStarted": {
+        "title": "Get Started Now",
+        "description": "Set up and run your first project in 5 minutes",
+        "link": "Get Started"
+      },
+      "community": {
+        "title": "Community",
+        "description": "Join the HDT AI developer community",
+        "link": "Join"
+      },
+      "support": {
+        "title": "Support",
+        "description": "Get support from our expert team",
+        "link": "Contact"
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Create a free account and start building with HDT AI today",
+      "getStarted": "Start Free",
+      "contact": "Contact Sales"
+    }
+  },
+  "Login": {
+    "title": "Login to HDT AI",
+    "subtitle": "Access your AI platform",
+    "promo": {
+      "title": "Special promotion +$75 credits for new accounts",
+      "description": "Get $75 free credits when you sign up for HDT AI"
+    },
+    "githubLogin": "Sign in with GitHub",
+    "googleLogin": "Sign in with Google",
+    "orContinueWith": "or continue with",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up now",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "support": "Support"
+  },
+  "GetStarted": {
+    "nav": {
+      "enterprise": "Enterprise",
+      "pricing": "Pricing",
+      "customers": "Customers",
+      "blog": "Blog",
+      "login": "Login"
+    },
+    "promo": {
+      "title": "🎉 Celebrating HDT AI x Windsurf with +$75 credits for new accounts"
+    },
+    "hero": {
+      "title": "HDT AI, the AI software engineer",
+      "subtitle": "Crush your backlog with your personal AI engineering team."
+    },
+    "githubSignup": "Start with GitHub Sign Up",
+    "googleSignup": "Start with Google Sign Up",
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Sign in",
+    "process": {
+      "title": "How It Works"
+    },
+    "steps": {
+      "ticket": {
+        "title": "Ticket",
+        "description": "Integrates with Slack and Linear"
+      },
+      "plan": {
+        "title": "Plan",
+        "description": "HDT AI can ask for more info"
+      },
+      "test": {
+        "title": "Test",
+        "description": "HDT AI makes sure the changes work"
+      },
+      "pr": {
+        "title": "PR",
+        "description": "Request changes directly on the PR"
+      }
+    },
+    "integrations": {
+      "title": "Integrates with popular tools"
+    },
+    "footer": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "support": "Support"
+    }
   }
 }
