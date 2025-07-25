@@ -13,22 +13,135 @@
     "getStarted": "Bắt đầu"
   },
   "hero": {
-    "title": "HDT AI, Giải pháp Trí tuệ Nhân tạo Tiên phong",
-    "subtitle": "Tăng tốc hiệu suất – tiết kiệm chi phí – đột phá sáng tạo với đội ngũ AI của bạn",
+    "title": "HDT AI, Kỹ sư phần mềm AI",
+    "subtitle": "Giải quyết backlog với đội ngũ kỹ thuật AI cá nhân của bạn",
     "description": "Chúng tôi giúp cá nhân và doanh nghiệp ứng dụng AI vào thực tiễn, từ đó thúc đẩy sự phát triển bền vững trong kỷ nguyên số.",
-    "getStarted": "Bắt đầu ngay",
-    "watchDemo": "Xem demo"
+    "getStarted": "Bắt đầu xây dựng",
+    "watchDemo": "Xem demo",
+    "notification": "Chúng mừng HDT AI x Đổi mới: Giải pháp AI tiên phong cho doanh nghiệp Việt Nam",
+    "workflow": {
+      "ticket": {
+        "title": "Ticket",
+        "description": "Tích hợp Slack, Linear và Jira"
+      },
+      "plan": {
+        "title": "Kế hoạch", 
+        "description": "Xem xét nhanh đề xuất của HDT AI"
+      },
+      "test": {
+        "title": "Kiểm thử",
+        "description": "HDT AI tự kiểm thử các thay đổi"
+      },
+      "pr": {
+        "title": "PR",
+        "description": "Xem xét thay đổi một cách tự nhiên"
+      }
+    },
+    "socialProof": "HDT AI đã viết hàng triệu dòng code cho các đội ngũ hàng đầu.",
+    "socialProofLink": "Đừng chỉ nghe từ chúng tôi.",
+    "useCases": {
+      "title": "Trường hợp sử dụng",
+      "subtitle": "Từ triển khai tính năng mới đến sửa hàng nghìn lỗi lint, HDT AI có thể xóa backlog của bạn, hiện đại hóa codebase và giúp bạn xây dựng nhiều hơn.",
+      "migration": {
+        "title": "Di chuyển Code + Tái cấu trúc",
+        "item1": "Di chuyển ngôn ngữ",
+        "item2": "Nâng cấp phiên bản", 
+        "item3": "Tái cấu trúc codebase"
+      },
+      "dataEngineering": {
+        "title": "Kỹ thuật Dữ liệu + Phân tích",
+        "item1": "Di chuyển kho dữ liệu",
+        "item2": "Phát triển ETL",
+        "item3": "Làm sạch và tiền xử lý dữ liệu"
+      }
+    }
   },
   "footer": {
     "company": "Công ty",
     "product": "Sản phẩm",
     "resources": "Tài nguyên",
     "legal": "Pháp lý",
-    "copyright": "© 2024 HDT AI. Tất cả quyền được bảo lưu."
+    "copyright": "© 2024 HDT AI. Tất cả quyền được bảo lưu.",
+    "description": "Giải pháp Trí tuệ Nhân tạo Tiên phong. Tăng tốc hiệu suất – tiết kiệm chi phí – đột phá sáng tạo với đội ngũ AI của bạn."
   },
   "enterprise": {
     "title": "Giải pháp Doanh nghiệp",
-    "subtitle": "Mở rộng đội ngũ kỹ thuật với HDT AI"
+    "subtitle": "Mở rộng đội ngũ kỹ thuật với HDT AI",
+    "hero": {
+      "title": "Cách VietinBank tái cấu trúc hàng triệu dòng code để cải thiện hiệu quả kỹ thuật với HDT AI",
+      "efficiency": "tăng hiệu quả thời gian kỹ thuật",
+      "savings": "tiết kiệm chi phí"
+    },
+    "overview": {
+      "title": "Tổng quan",
+      "description1": "Một trong những dự án quan trọng nhất, trên toàn công ty của VietinBank cho 2023-2024 là việc di chuyển ETL cốt lõi của họ — một monolith 8 năm tuổi, hàng triệu dòng code — thành các sub-module. Để xử lý một cuộc tái cấu trúc lớn như vậy, lựa chọn duy nhất của họ là một nỗ lực nhiều năm phân phối công việc tái cấu trúc lặp đi lặp lại cho hơn một nghìn kỹ sư của họ.",
+      "description2": "Tuy nhiên, với HDT AI, điều này đã thay đổi: các kỹ sư có thể ủy thác cho HDT AI xử lý việc di chuyển của họ và đạt được cải thiện hiệu quả 12x về giờ kỹ thuật tiết kiệm được, và tiết kiệm chi phí hơn 20x. Trong số những đơn vị khác, các đơn vị kinh doanh Dữ liệu, Thu thập và Rủi ro đã xác minh và hoàn thành việc di chuyển của họ trong vài tuần thay vì vài tháng hoặc vài năm."
+    },
+    "problem": {
+      "title": "Vấn đề",
+      "description1": "VietinBank được sinh ra trong truyền thống của kiến trúc ETL FinServ tập trung. Cho đến nay, kiến trúc monolith đã hoạt động tốt cho VietinBank — nó cho phép sự tự chủ và linh hoạt của nhà phát triển đã đưa họ qua các giai đoạn tăng trưởng siêu tốc. Tuy nhiên, sau 8 năm, khối lượng tăng trưởng khách hàng khổng lồ của VietinBank, cũng như việc mở rộng địa lý và sản phẩm vượt ra ngoài hoạt động ngân hàng ban đầu của họ, đã dẫn đến một ETL rối rắm, khổng lồ với vô số phụ thuộc chéo và không có con đường rõ ràng để tiếp tục mở rộng quy mô.",
+      "description2": "Đối với các kỹ sư VietinBank, các chuyển đổi dữ liệu quan trọng cho kinh doanh bắt đầu mất thời gian ngày càng lâu để chạy, với chuỗi phụ thuộc sâu tới 70 và thiếu thỏa thuận chính thức về ai chịu trách nhiệm duy trì cái gì. Khi công ty tiếp tục phát triển, rõ ràng ETL sẽ là nút thắt cổ chai chính để mở rộng quy mô.",
+      "quote": "VietinBank kết luận rằng có nhu cầu cấp thiết phải chia nhỏ kho lưu trữ ETL nguyên khối của họ, tích lũy hơn 6 triệu dòng code, thành các sub-module nhỏ hơn, linh hoạt hơn.",
+      "description3": "Việc di chuyển code của VietinBank đầy rẫy công việc đơn điệu, lặp đi lặp lại mà các kỹ sư ghét. Di chuyển từng triển khai lớp dữ liệu từ kiến trúc này sang kiến trúc khác trong khi theo dõi import một cách chính xác, thực hiện nhiều bước tái cấu trúc tinh tế, và tính đến bất kỳ số lượng trường hợp đặc biệt nào đều rất tẻ nhạt, ngay cả khi chỉ làm một hoặc hai lần. Tuy nhiên, ở quy mô của VietinBank, phạm vi di chuyển tổng thể liên quan đến hơn 1.000 kỹ sư di chuyển ~100.000 triển khai lớp dữ liệu trong thời gian dự kiến 18 tháng.",
+      "description4": "Trong một thế giới mà tài nguyên kỹ thuật khan hiếm, các cuộc di chuyển và hiện đại hóa quy mô lớn như vậy trở thành các dự án cực kỳ tốn kém, tốn thời gian làm phân tâm khỏi nhiệm vụ cốt lõi của bất kỳ đội kỹ thuật nào: xây dựng sản phẩm tốt hơn cho khách hàng. Thật không may, đây là thực tế đối với nhiều tổ chức lớn nhất thế giới."
+    },
+    "decision": {
+      "title": "Quyết định: một đội quân HDT AI để giải quyết các nhiệm vụ phụ song song",
+      "description1": "Vào đầu dự án năm 2023, VietinBank không có lựa chọn nào khác ngoài việc dựa vào các kỹ sư của họ để thực hiện thay đổi code thủ công. Di chuyển một lớp dữ liệu là một nhiệm vụ có tính quyết định cao, với nhiều biến thể, trường hợp đặc biệt và ra quyết định tùy ý — quá phức tạp để có thể viết script, nhưng có khối lượng cao đủ để trở thành một nỗ lực thủ công đáng kể.",
+      "description2": "Trong vòng vài tuần sau khi HDT AI ra mắt, VietinBank đã xác định một cơ hội rõ ràng để tăng tốc việc tái cấu trúc của họ với một phần nhỏ giờ kỹ thuật. Các nhiệm vụ di chuyển hoặc tái cấu trúc lớn thường là những dự án tuyệt vời cho HDT AI: sau khi đầu tư một chi phí cố định nhỏ để dạy HDT AI cách tiếp cận các nhiệm vụ phụ, HDT AI có thể tiến hành và hoàn thành việc di chuyển một cách tự động. Một con người được giữ trong vòng lặp chỉ để quản lý dự án và phê duyệt các thay đổi của HDT AI."
+    },
+    "solution": {
+      "title": "Giải pháp: HDT AI Di chuyển ETL Tùy chỉnh",
+      "description1": "Một nhiệm vụ có quy mô này, với số lượng biến thể khổng lồ mà nó có, là một cơ hội chín muồi cho việc tinh chỉnh. Đội VietinBank đã giúp thu thập các ví dụ về các cuộc di chuyển trước đây mà các kỹ sư của họ đã thực hiện thủ công, một số trong đó được cung cấp cho HDT AI để tinh chỉnh. Phần còn lại được sử dụng để tạo một bộ đánh giá benchmark.",
+      "description2": "Đối với bộ đánh giá này, chúng tôi quan sát thấy việc tăng gấp đôi điểm hoàn thành nhiệm vụ của HDT AI sau khi tinh chỉnh, cũng như cải thiện tốc độ nhiệm vụ 4x. Khoảng 40 phút mỗi nhiệm vụ phụ giảm xuống còn 10, điều này làm cho toàn bộ cuộc di chuyển bắt đầu trông rẻ hơn nhiều và ít tốn thời gian hơn, cho phép công ty dành nhiều năng lượng hơn cho kinh doanh mới và tạo ra giá trị mới thay vì.",
+      "description3": "HDT AI đã đóng góp vào việc cải thiện tốc độ của chính mình bằng cách xây dựng cho mình các công cụ và script cổ điển mà nó sẽ sử dụng sau này trên các thành phần cơ học phổ biến nhất của việc di chuyển. Ví dụ, phát hiện phần mở rộng quốc gia của một lớp dữ liệu (hoặc 'vn', 'sg', hoặc 'th') dựa trên đường dẫn tệp của nó là một quy trình vài bước cho mỗi nhiệm vụ phụ. Script của HDT AI tự động biến điều này thành một bước thực thi duy nhất — những cải thiện từ đó cộng dồn rất lớn trên tất cả hàng chục nghìn nhiệm vụ phụ.",
+      "description4": "Cũng có một lợi thế tích lũy về việc học của HDT AI. Trong những tuần đầu, thường thấy các lỗi nổi bật cần sửa, hoặc những điều nhỏ mà HDT AI không chắc chắn cách giải quyết. Nhưng khi HDT AI thấy nhiều ví dụ hơn và quen thuộc với nhiệm vụ, nó bắt đầu tránh các hố thỏ thường xuyên hơn và tìm ra giải pháp nhanh hơn cho các lỗi và trường hợp đặc biệt đã thấy trước đó. Giống như một kỹ sư con người, chúng tôi quan sát thấy những cải thiện tốc độ và độ tin cậy rõ ràng với mỗi ngày HDT AI làm việc trên việc di chuyển."
+    },
+    "results": {
+      "title": "Kết quả",
+      "subtitle": "Cung cấp việc di chuyển nhanh hơn 8-12x, giảm bớt gánh nặng từ mọi kỹ sư, và cắt giảm chi phí di chuyển 20x.",
+      "testimonial": "HDT AI cung cấp một cách dễ dàng để giảm số giờ kỹ thuật cho việc di chuyển, theo cách ổn định hơn và ít dễ bị lỗi con người hơn. Thay vì các kỹ sư phải làm việc trên nhiều tệp và hoàn thành toàn bộ nhiệm vụ di chuyển 100%, họ chỉ có thể xem xét các thay đổi của HDT AI, thực hiện các điều chỉnh nhỏ, sau đó merge PR của họ",
+      "author": "Nguyễn Văn Đức",
+      "position": "Quản lý Sản phẩm Cấp cao, VietinBank",
+      "efficiency": {
+        "title": "tăng hiệu quả",
+        "description": "Điều này được tính bằng cách so sánh giờ kỹ thuật điển hình cần thiết để hoàn thành một nhiệm vụ di chuyển lớp dữ liệu với tổng giờ kỹ thuật dành cho việc nhắc nhở và xem xét công việc của HDT AI trên cùng một nhiệm vụ."
+      },
+      "costSavings": {
+        "title": "tiết kiệm chi phí",
+        "description": "Điều này được tính bằng cách so sánh chi phí chạy HDT AI với chi phí hàng giờ của một kỹ sư hoàn thành nhiệm vụ đó. Việc tiết kiệm đáng kể được thúc đẩy mạnh mẽ bởi tốc độ thực hiện nhiệm vụ và hiệu quả chi phí của HDT AI so với thời gian kỹ thuật con người."
+      },
+      "cta": "Ít nhiệm vụ di chuyển đáng ghét hơn cho các kỹ sư VietinBank",
+      "startMigration": "Bắt đầu di chuyển doanh nghiệp của bạn"
+    },
+    "features": {
+      "title": "Tính năng Doanh nghiệp",
+      "subtitle": "HDT AI Enterprise cung cấp bảo mật, khả năng mở rộng và kiểm soát mà các tổ chức lớn cần.",
+      "security": {
+        "title": "Bảo mật Doanh nghiệp",
+        "description": "Tuân thủ SOC 2 Type II, mã hóa dữ liệu và các tùy chọn triển khai đám mây riêng."
+      },
+      "infrastructure": {
+        "title": "Cơ sở hạ tầng Có thể mở rộng",
+        "description": "Xử lý hàng nghìn nhiệm vụ đồng thời với cơ sở hạ tầng tự động mở rộng."
+      },
+      "management": {
+        "title": "Quản lý Đội nhóm",
+        "description": "Quản lý người dùng nâng cao, kiểm soát truy cập dựa trên vai trò và nhật ký kiểm toán."
+      },
+      "integration": {
+        "title": "Tích hợp Tùy chỉnh",
+        "description": "Tích hợp với các công cụ và quy trình làm việc hiện có của bạn một cách liền mạch."
+      },
+      "analytics": {
+        "title": "Phân tích & Báo cáo",
+        "description": "Thông tin chi tiết về tăng năng suất và tiết kiệm chi phí."
+      },
+      "support": {
+        "title": "Hỗ trợ Ưu tiên",
+        "description": "Hỗ trợ chuyên dụng 24/7 với thời gian phản hồi được đảm bảo."
+      }
+    }
   },
   "pricing": {
     "title": "Bảng Giá",
@@ -57,15 +170,15 @@
       "sectionTitle": "Tầm Nhìn - Sứ Mệnh - Giá Trị Cốt Lõi",
       "sectionSubtitle": "Những giá trị định hướng hoạt động của HDT AI",
       "title": "Tầm Nhìn",
-      "description": "Trở thành đơn vị tiên phong trong việc đưa AI ứng dụng sâu vào công việc và đời sống tại Việt Nam và khu vực."
+      "description": "Trở thành công ty hàng đầu Việt Nam và khu vực về giải pháp AI ứng dụng."
     },
     "mission": {
       "title": "Sứ Mệnh",
-      "description": "Biến trí tuệ nhân tạo thành công cụ thực tiễn, dễ dùng, dễ áp dụng cho mọi người – từ cá nhân nhỏ lẻ đến doanh nghiệp lớn."
+      "description": "Giúp mọi người và doanh nghiệp dễ dàng ứng dụng AI vào công việc hằng ngày để nâng cao hiệu quả."
     },
     "values": {
       "title": "Giá Trị Cốt Lõi",
-      "description": "Đổi mới – Hiệu quả – Hợp tác – Con người là trung tâm."
+      "description": "Đổi mới – Tinh gọn – Minh bạch – Đồng hành."
     },
     "activities": {
       "title": "Lĩnh Vực Hoạt Động Chính",
@@ -76,15 +189,15 @@
       },
       "development": {
         "title": "Phát triển Sản phẩm AI",
-        "description": "Phần mềm thông minh, công cụ tạo nội dung, xử lý hình ảnh – giọng nói"
+        "description": "Phần mềm thông minh, ứng dụng web, SaaS, plugin tích hợp AI"
       },
       "training": {
         "title": "Đào tạo AI Ứng dụng",
         "description": "Giúp cá nhân và doanh nghiệp làm chủ công cụ AI nhanh chóng, hiệu quả"
       },
-      "research": {
-        "title": "Nghiên cứu & Phát triển",
-        "description": "Mã nguồn mở AI, góp phần xây dựng tương lai công nghệ bền vững"
+      "automation": {
+        "title": "Tự động hóa & Marketing AI",
+        "description": "Tự động hóa quy trình, content AI, video quảng cáo bằng AI"
       }
     },
     "philosophy": {
@@ -102,11 +215,11 @@
       },
       "partnership": {
         "title": "Đồng hành cùng khách hàng",
-        "description": "Luôn đồng hành cùng khách hàng trong hành trình ứng dụng AI hiệu quả"
+        "description": "Chuyển giao và đào tạo để AI trở thành công cụ phổ cập đến mọi người"
       },
       "sustainability": {
         "title": "Phát triển bền vững",
-        "description": "Luôn hướng tới phát triển bền vững, có trách nhiệm với cộng đồng và xã hội"
+        "description": "Tối ưu chi phí, tăng tính tự chủ và có trách nhiệm với cộng đồng"
       }
     }
   },

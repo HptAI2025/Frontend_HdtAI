@@ -53,7 +53,7 @@ export default function Footer() {
               <span className="text-xl font-bold">HDT AI</span>
             </div>
             <p className="text-gray-400 text-sm mb-6 max-w-md">
-              Giải pháp Trí tuệ Nhân tạo Tiên phong. Tăng tốc hiệu suất – tiết kiệm chi phí – đột phá sáng tạo với đội ngũ AI của bạn.
+              {t('description')}
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">

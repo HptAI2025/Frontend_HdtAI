@@ -11,17 +11,17 @@ export default function EnterprisePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h1 className="text-5xl lg:text-6xl font-bold mb-8">
-              How <span className="text-blue-400">VietinBank</span> refactors millions of lines of code to improve engineering efficiency with <span className="text-blue-400">HDT AI</span>
+              {t('hero.title')}
             </h1>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mt-16">
               <div className="text-center">
                 <div className="text-6xl font-bold text-blue-400 mb-4">8x</div>
-                <div className="text-xl text-slate-300">engineering time efficiency gain</div>
+                <div className="text-xl text-slate-300">{t('hero.efficiency')}</div>
               </div>
               <div className="text-center">
                 <div className="text-6xl font-bold text-blue-400 mb-4">20x</div>
-                <div className="text-xl text-slate-300">cost savings</div>
+                <div className="text-xl text-slate-300">{t('hero.savings')}</div>
               </div>
             </div>
           </div>
@@ -33,13 +33,13 @@ export default function EnterprisePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl font-bold mb-8 text-blue-400">Overview</h2>
+              <h2 className="text-4xl font-bold mb-8 text-blue-400">{t('overview.title')}</h2>
               <div className="space-y-6 text-lg text-slate-300 leading-relaxed">
                 <p>
-                  One of VietinBank's most critical, company-wide projects for 2023-2024 was a migration of their core ETL — an 8 year old, multi-million lines of code monolith — to sub-modules. To handle such a large refactor, their only option was a multi-year effort that distributed repetitive refactoring work across over one thousand of their engineers.
+                  {t('overview.description1')}
                 </p>
                 <p>
-                  With <span className="text-blue-400 font-semibold">HDT AI</span>, however, this changed: engineers were able to delegate HDT AI to handle their migrations and achieve a 12x efficiency improvement in terms of engineering hours saved, and over 20x cost savings. Among others, Data, Collections, and Risk business units verified and completed their migrations in weeks instead of months or years.
+                  {t('overview.description2')}
                 </p>
               </div>
             </div>
@@ -60,7 +60,7 @@ export default function EnterprisePage() {
       <section className="py-20 bg-slate-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-4xl font-bold mb-12 text-center text-blue-400">The Problem</h2>
+            <h2 className="text-4xl font-bold mb-12 text-center text-blue-400">{t('problem.title')}</h2>
             <div className="space-y-8 text-lg text-slate-300 leading-relaxed">
               <p>
                 VietinBank was born into the tradition of centralized ETL FinServ architectures. To date, the monolith architecture had worked well for VietinBank — it enabled the developer autonomy and flexibility that carried them through their hypergrowth phases. After 8 years, however, VietinBank's sheer volume of customer growth, as well as geographic and product expansion beyond their original banking business, led to an entangled, behemoth ETL with countless cross-dependencies and no clear path to continuing to scale.

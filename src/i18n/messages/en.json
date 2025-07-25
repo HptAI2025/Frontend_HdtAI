@@ -17,14 +17,52 @@
     "subtitle": "Accelerate performance – save costs – breakthrough innovation with your AI team",
     "description": "We help individuals and businesses apply AI in practice, thereby promoting sustainable development in the digital age.",
     "getStarted": "Get started",
-    "watchDemo": "Watch demo"
+    "watchDemo": "Watch demo",
+    "notification": "🎉 Special promotion HDT AI x Windsurf with +75$ credit for new accounts",
+    "workflow": {
+      "ticket": {
+        "title": "Ticket",
+        "description": "Integration with Slack and Linear"
+      },
+      "plan": {
+        "title": "Plan",
+        "description": "HDT AI can request additional information"
+      },
+      "test": {
+        "title": "Test",
+        "description": "HDT AI ensures changes work properly"
+      },
+      "pr": {
+        "title": "PR",
+        "description": "Request changes directly on PR"
+      }
+    },
+    "socialProof": "Trusted by engineering teams at",
+    "socialProofLink": "See all customers",
+    "useCases": {
+      "title": "What can HDT AI help you with?",
+      "subtitle": "From bug fixes to feature development, HDT AI handles various engineering tasks",
+      "migration": {
+        "title": "Code Migration + Refactors",
+        "item1": "Legacy code modernization",
+        "item2": "Framework migrations",
+        "item3": "Architecture refactoring"
+      },
+      "dataEngineering": {
+        "title": "Data Engineering",
+        "item1": "ETL pipeline development",
+        "item2": "Data processing optimization",
+        "item3": "Database schema design"
+      }
+    }
   },
   "footer": {
     "company": "Company",
     "product": "Product",
     "resources": "Resources",
     "legal": "Legal",
-    "copyright": "© 2024 HDT AI. All rights reserved."
+    "copyright": "© 2024 HDT AI. All rights reserved.",
+    "description": "Pioneering Artificial Intelligence Solutions. Accelerate performance – save costs – breakthrough innovation with your AI team."
   },
   "enterprise": {
     "title": "Enterprise Solutions",
@@ -57,15 +95,15 @@
       "sectionTitle": "Vision - Mission - Core Values",
       "sectionSubtitle": "The values that guide HDT AI's operations",
       "title": "Vision",
-      "description": "To become a pioneer in bringing AI applications deep into work and life in Vietnam and the region."
+      "description": "To become the leading company in Vietnam and the region for applied AI solutions."
     },
     "mission": {
       "title": "Mission",
-      "description": "Transform artificial intelligence into practical, easy-to-use, easy-to-apply tools for everyone – from small individuals to large enterprises."
+      "description": "Help everyone and businesses easily apply AI to their daily work to improve efficiency."
     },
     "values": {
       "title": "Core Values",
-      "description": "Innovation – Efficiency – Collaboration – Human-centered."
+      "description": "Innovation – Streamlined – Transparent – Partnership."
     },
     "activities": {
       "title": "Main Business Areas",
@@ -76,15 +114,15 @@
       },
       "development": {
         "title": "AI Product Development",
-        "description": "Smart software, content creation tools, image & voice processing"
+        "description": "Smart software, web applications, SaaS, AI-integrated plugins"
       },
       "training": {
         "title": "Applied AI Training",
         "description": "Help individuals and businesses master AI tools quickly and effectively"
       },
-      "research": {
-        "title": "Research & Development",
-        "description": "Open source AI, contributing to building a sustainable technology future"
+      "automation": {
+        "title": "Automation & AI Marketing",
+        "description": "Process automation, AI content, AI-powered advertising videos"
       }
     },
     "philosophy": {
@@ -102,11 +140,11 @@
       },
       "partnership": {
         "title": "Customer Partnership",
-        "description": "Always accompany customers in their journey to effectively apply AI"
+        "description": "Transfer knowledge and train to make AI a universal tool for everyone"
       },
       "sustainability": {
         "title": "Sustainable Development",
-        "description": "Always aim for sustainable development, responsible to the community and society"
+        "description": "Optimize costs, increase autonomy and be responsible to the community"
       }
     }
   },

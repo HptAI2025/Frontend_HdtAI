@@ -1,18 +1,8 @@
+'use client';
+
 import { useTranslations } from 'next-intl';
-import { getTranslations } from 'next-intl/server';
 import { useState } from 'react';
 import Link from 'next/link';
-
-export async function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
-  const t = await getTranslations({ locale, namespace: 'GetStarted' });
-  
-  return {
-    title: t('hero.title'),
-    description: t('hero.subtitle'),
-  };
-}
-
-'use client';
 
 export default function GetStartedPage() {
   const t = useTranslations('GetStarted');

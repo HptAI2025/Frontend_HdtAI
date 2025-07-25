@@ -1,16 +1,8 @@
+'use client';
+
 import { useTranslations } from 'next-intl';
-import { getTranslations } from 'next-intl/server';
 import { useState } from 'react';
 import Link from 'next/link';
-
-export async function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
-  const t = await getTranslations({ locale, namespace: 'Login' });
-  
-  return {
-    title: t('title'),
-    description: t('subtitle'),
-  };
-}
 
 export default function LoginPage() {
   const t = useTranslations('Login');

@@ -53,12 +53,12 @@ export default function Header() {
           </div>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-1">
+          <div className="hidden lg:flex items-center space-x-1">
             {navigation.map((item) => (
               <Link
                 key={item.name}
                 href={item.href}
-                className="text-slate-300 hover:text-white px-4 py-2 text-sm font-medium transition-colors rounded-md hover:bg-slate-800"
+                className="text-slate-300 hover:text-white px-3 py-2 text-sm font-medium transition-colors rounded-md hover:bg-slate-800 whitespace-nowrap"
               >
                 {item.name}
               </Link>
@@ -69,7 +69,7 @@ export default function Header() {
               <Link
                 key={item.name}
                 href={item.href}
-                className="text-slate-400 hover:text-slate-300 px-3 py-2 text-sm font-medium transition-colors"
+                className="text-slate-400 hover:text-slate-300 px-2 py-2 text-sm font-medium transition-colors whitespace-nowrap"
               >
                 {item.name}
               </Link>
@@ -112,20 +112,20 @@ export default function Header() {
 
             <Link
               href="/login"
-              className="text-slate-300 hover:text-white px-4 py-2 text-sm font-medium transition-colors rounded-md hover:bg-slate-800 ml-2"
+              className="text-slate-300 hover:text-white px-3 py-2 text-sm font-medium transition-colors rounded-md hover:bg-slate-800 ml-2 whitespace-nowrap"
             >
               {t('login')}
             </Link>
             <Link
               href="/get-started"
-              className="bg-blue-400 hover:bg-blue-500 text-slate-900 px-4 py-2 rounded-md text-sm font-medium transition-colors ml-2"
+              className="bg-blue-400 hover:bg-blue-500 text-slate-900 px-3 py-2 rounded-md text-sm font-medium transition-colors ml-2 whitespace-nowrap"
             >
               {t('getStarted')}
             </Link>
           </div>
 
           {/* Mobile menu button */}
-          <div className="md:hidden">
+          <div className="lg:hidden">
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
               className="text-slate-300 hover:text-white p-2"
@@ -137,7 +137,7 @@ export default function Header() {
 
         {/* Mobile Navigation */}
         {isMenuOpen && (
-          <div className="md:hidden">
+          <div className="lg:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 border-t border-slate-800">
               {navigation.map((item) => (
                 <Link

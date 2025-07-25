@@ -16,7 +16,7 @@ export default function Home() {
             <div className="flex items-center space-x-2">
               <span className="text-2xl">🎉</span>
               <span className="text-sm text-slate-300">
-                Celebrating HDT AI x Innovation: Giải pháp AI tiên phong cho doanh nghiệp Việt Nam
+                {t('notification')}
               </span>
             </div>
             <button className="text-slate-400 hover:text-white">×</button>
@@ -33,20 +33,20 @@ export default function Home() {
               <div>
                 <h1 className="text-5xl lg:text-6xl font-bold mb-6">
                   <span className="text-blue-400 drop-shadow-lg" style={{textShadow: '0 0 20px rgba(96, 165, 250, 0.5)'}}>HDT AI,</span>
-                  <span className="block text-white">the AI software engineer</span>
+                  <span className="block text-white">{t('title').replace('HDT AI, ', '')}</span>
                 </h1>
                 
                 <Link
                   href="/get-started"
                   className="inline-block bg-blue-400 hover:bg-blue-500 text-slate-900 px-6 py-3 rounded-lg font-semibold transition-all duration-300 shadow-lg shadow-blue-400/25 hover:shadow-blue-400/40 hover:scale-105"
                 >
-                  Start building
+                  {t('getStarted')}
                 </Link>
               </div>
 
               <div className="space-y-4">
                 <p className="text-xl text-slate-300">
-                  Crush your backlog <span className="text-white">with your personal AI engineering team.</span>
+                  {t('subtitle')}
                 </p>
 
                 {/* Workflow Steps */}
@@ -56,8 +56,8 @@ export default function Home() {
                       1
                     </div>
                     <div>
-                      <div className="font-semibold text-white">Ticket</div>
-                      <div className="text-slate-400 text-sm">Integrate Slack, Linear, and Jira</div>
+                      <div className="font-semibold text-white">{t('workflow.ticket.title')}</div>
+                      <div className="text-slate-400 text-sm">{t('workflow.ticket.description')}</div>
                     </div>
                   </div>
 
@@ -66,8 +66,8 @@ export default function Home() {
                       2
                     </div>
                     <div>
-                      <div className="font-semibold text-white">Plan</div>
-                      <div className="text-slate-400 text-sm">Quickly review HDT AI's proposal</div>
+                      <div className="font-semibold text-white">{t('workflow.plan.title')}</div>
+                      <div className="text-slate-400 text-sm">{t('workflow.plan.description')}</div>
                     </div>
                   </div>
 
@@ -76,8 +76,8 @@ export default function Home() {
                       3
                     </div>
                     <div>
-                      <div className="font-semibold text-white">Test</div>
-                      <div className="text-slate-400 text-sm">HDT AI tests changes by itself</div>
+                      <div className="font-semibold text-white">{t('workflow.test.title')}</div>
+                      <div className="text-slate-400 text-sm">{t('workflow.test.description')}</div>
                     </div>
                   </div>
 
@@ -86,8 +86,8 @@ export default function Home() {
                       4
                     </div>
                     <div>
-                      <div className="font-semibold text-white">PR</div>
-                      <div className="text-slate-400 text-sm">Review changes natively</div>
+                      <div className="font-semibold text-white">{t('workflow.pr.title')}</div>
+                      <div className="text-slate-400 text-sm">{t('workflow.pr.description')}</div>
                     </div>
                   </div>
                 </div>
@@ -197,9 +197,9 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <p className="text-slate-300">
-              HDT AI has authored millions of lines of code for top teams.{' '}
+              {t('socialProof')}{' '}
               <Link href="/customers" className="text-blue-400 hover:text-blue-300 underline">
-                Don't just hear it from us.
+                {t('socialProofLink')}
               </Link>
             </p>
           </div>
@@ -240,10 +240,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl lg:text-5xl font-bold text-white mb-6">
-              Use <span className="text-blue-400">cases</span>
+              {t('useCases.title')}
             </h2>
             <p className="text-xl text-slate-300 max-w-4xl mx-auto">
-              From implementing new features to fixing thousands of lint errors, HDT AI can clear your backlog, modernize your codebase, and help you build more.
+              {t('useCases.subtitle')}
             </p>
           </div>
 
@@ -251,19 +251,19 @@ export default function Home() {
             {/* Code Migration + Refactors */}
             <div className="bg-slate-900 rounded-lg p-8">
               <div className="mb-6">
-                <h3 className="text-2xl font-bold text-white mb-4">Code Migration + Refactors</h3>
+                <h3 className="text-2xl font-bold text-white mb-4">{t('useCases.migration.title')}</h3>
                 <ul className="space-y-3">
                   <li className="flex items-center text-slate-300">
                     <div className="w-2 h-2 bg-blue-400 rounded-full mr-3"></div>
-                    Language migrations
+                    {t('useCases.migration.item1')}
                   </li>
                   <li className="flex items-center text-slate-300">
                     <div className="w-2 h-2 bg-blue-400 rounded-full mr-3"></div>
-                    Version upgrades
+                    {t('useCases.migration.item2')}
                   </li>
                   <li className="flex items-center text-slate-300">
                     <div className="w-2 h-2 bg-blue-400 rounded-full mr-3"></div>
-                    Codebase restructuring
+                    {t('useCases.migration.item3')}
                   </li>
                 </ul>
               </div>
@@ -278,19 +278,19 @@ export default function Home() {
             {/* Data Engineering + Analysis */}
             <div className="bg-slate-900 rounded-lg p-8">
               <div className="mb-6">
-                <h3 className="text-2xl font-bold text-white mb-4">Data Engineering + Analysis</h3>
+                <h3 className="text-2xl font-bold text-white mb-4">{t('useCases.dataEngineering.title')}</h3>
                 <ul className="space-y-3">
                   <li className="flex items-center text-slate-300">
                     <div className="w-2 h-2 bg-blue-400 rounded-full mr-3"></div>
-                    Data warehouse migrations
+                    {t('useCases.dataEngineering.item1')}
                   </li>
                   <li className="flex items-center text-slate-300">
                     <div className="w-2 h-2 bg-blue-400 rounded-full mr-3"></div>
-                    ETL development
+                    {t('useCases.dataEngineering.item2')}
                   </li>
                   <li className="flex items-center text-slate-300">
                     <div className="w-2 h-2 bg-blue-400 rounded-full mr-3"></div>
-                    Data cleaning and preprocessing
+                    {t('useCases.dataEngineering.item3')}
                   </li>
                 </ul>
               </div>
